@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Pandarasamy Arjunan # the website title (if blank, full name will be used instead)
-first_name: Pandarasamy
+title: VSK Murthy Balijepalli # the website title (if blank, full name will be used instead)
+first_name: BALIJEPALLI
 middle_name: 
-last_name: Arjunan (Samy)
-email: mkusamy@gmail.com
+last_name: VSK Murthy (Krish)
+email: krish.vskb@gmail.com
 description: Welcome to my website!
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
