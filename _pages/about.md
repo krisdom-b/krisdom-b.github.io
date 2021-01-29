@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Dr Krish
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
 #  address: >
-#    <!--p>Berkeley Education Alliance for Research in Singapore (BEARS) Limited</p-->	
-#    <p>#11-01, CREATE Tower,</p>
+#    <!--p>ETH Singapore Pte Ltd</p-->	
+#    <p>#07-01, CREATE Tower,</p>
 #    <p>1 Create Way,</p>	
 #    <p>Singapore 138602.</p>  	
 
@@ -18,8 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br>
-I am a postdoctoral scholar at Berkeley Education Alliance for Research in Singapore ([BEARS](http://bears.berkeley.edu/)) Limited, a University of California, Berkeley's research centre, in Singapore. I work for the [SinBerBEST 2](http://sinberbest.berkeley.edu/) program (Theme D: Data Analytics for the Built Environment) under [Kameshwar Poolla](https://en.wikipedia.org/wiki/Kameshwar_Poolla). I did my Ph.D. in Computer Science and Engineering from [IIIT-Delhi, India](https://www.iiitd.ac.in/), under the guidance of [Amarjeet Singh](http://faculty.iiitd.ac.in/~amarjeet/) and [Pushpendra Singh](https://www.iiitd.edu.in/~pushpendra/). Before that, I have received my Master degree in computer applications from Madurai Kamaraj University, Tamilnadu, India.
 
-My research interests lie in the intersection of Data Science and Cyber-Physical Systems, and their applications pertaining to smart environments and energy sustainability. Specifically, I focus on developing systems and techniques for energy monitoring, benchmarking, prediction, and anomaly detection by leveraging smart meter and other opportunistic data sources. More recently, I have started investigating how we can leverage Infrared Thermography (IRT) for city-scale building diagnostics and energy auditing.
+Dr VSK Murthy Balijepalli (Krish) is a researcher and lead principal investigator at the [Future Resilient Systems (FRS)](https://frs.ethz.ch/) programme at the Singapore-ETH Centre, ETH Zurich. He is an active contributor to smart energy grids with over 10 years of experience in the design, architecture, and implementation of standards-based innovative solutions in the power sector. Prior to joining the FRS, he was with the Rolls-Royce@NTU Corporate Lab and actively contributed towards the research on power grid codes, grid compliance of hybrid microgrids, and various project management activities. Currently, he serves on the expert committee of Sustainable Energy to the United Nations Economic Commission (UNECE) for Europe, Geneva, Switzerland on an invitational basis. His research interests are in the areas of smart grids, power grid modelling, common information models, resilience metrics, and power system optimization. He has authored and co-authored more than 30 international peer-reviewed publications and holding/filed a couple of patents in the area of smart energy grids. 
 
 My CV can be found [here](../assets/pdf/samy_cv.pdf)!
